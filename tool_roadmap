@@ -3,6 +3,7 @@
 Google-Calendar-for-VA-Learning/
 │
 ├── level_1_basic_usage/
+|   ├── 00-how-to-open-google-calendar.md
 │   ├── 01-create-calendar-event.md
 │   ├── 02-set-reminders.md
 │   ├── 03-edit-delete-event.md
