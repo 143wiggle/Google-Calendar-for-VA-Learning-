@@ -1,0 +1,32 @@
+# Google-Calendar-for-VA-Learning-
+
+Google-Calendar-for-VA-Learning/
+│
+├── level_1_basic_usage/
+│   ├── 01-create-calendar-event.md
+│   ├── 02-set-reminders.md
+│   ├── 03-edit-delete-event.md
+│   ├── 04-invite-client-to-event.md
+│   └── 05-change-timezone-settings.md
+│
+├── level_2_organization_view/
+│   ├── 06-use-day-week-month-view.md
+│   ├── 07-color-code-events.md
+│   ├── 08-add-description-location.md
+│   ├── 09-use-agenda-view.md
+│   └── 10-custom-notifications.md
+│
+├── level_3_calendar_sharing/
+│   ├── 11-share-calendar.md
+│   ├── 12-set-permissions.md
+│   ├── 13-unshare-calendar.md
+│   └── 14-view-multiple-calendars.md
+│
+├── level_4_automation_integration/
+│   ├── 15-link-to-gmail-events.md
+│   ├── 16-sync-with-mobile.md
+│   ├── 17-integrate-with-zoom.md
+│   ├── 18-add-google-meet.md
+│   └── 19-use-calendar-task-feature.md
+│
+└── roadmap.md
