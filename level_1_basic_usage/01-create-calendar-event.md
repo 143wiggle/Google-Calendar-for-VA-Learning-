@@ -2,51 +2,49 @@ VA Tool: Google Calendar
 VA Trainee Name: Brent Frias Belmonte
 
 Level 1 — Basic Usage
-[Task 1: Create a Calendar Event]
+[Task 1: Create a Calendar Event for a Birthday]
 
 Goal
-Learn how to schedule and create calendar events for clients, ensuring clear communication and well-managed time.
+Learn how to schedule and create birthday reminders in Google Calendar, ensuring timely wishes and thoughtful client engagement.
 
 Steps to Practice
 Open Google Calendar.
 
 Click the + Create button (top left or bottom-right corner).
 
-Add the event title (e.g., "Team Meeting with Client").
+Add the event title (e.g., "John’s Birthday").
 
-Set the start and end times.
+Set the start time (e.g., 9:00 AM on the birthday).
 
-Add a location (optional), such as a meeting room or online link (Zoom, Google Meet).
+Add a location (optional).
 
-Set reminders/notifications for yourself and the client (optional but recommended).
+Set a reminder/notification for the day or a few days in advance.
 
-Add a short description if necessary (e.g., agenda).
+Add a short description if needed (e.g., "Send Birthday Wishes via Email").
+
+Set the event as All Day if it’s a birthday.
 
 Click Save to create the event.
 
 Practice Example
-Event Title: Weekly Check-in with Client
+Event Title: John’s Birthday
 
-Date & Time: Monday, August 10, 2025, 3:00 PM – 3:30 PM (Client's time zone)
+Date & Time: Friday, August 10, 2025
 
-Location: Zoom (Link attached)
+Location: N/A (Birthday is not location-specific)
 
-Description: Discuss project updates and next steps.
+Description: Send a Happy Birthday email.
 
-Reminders:
+Reminder:
 
-15 minutes before the meeting for both you and the client.
+1 day before (reminder to send an email).
 
-Follow-up reminder 1 hour after the meeting to send meeting notes.
+10 minutes before (reminder to wish happy birthday).
 
 Message Example
 Hi [Client],
 
-I’ve scheduled our weekly check-in for Monday at 3:00 PM. Please find the Zoom link below. If this time doesn't work for you, just let me know.
-
-[Zoom Link]
-
-Looking forward to our discussion!
+Just a friendly reminder that today is [Name]'s birthday! You might want to send your wishes. I’ve also scheduled a quick reminder for you to follow up with a birthday message.
 
 Best regards,
 Brent
@@ -56,13 +54,14 @@ Screenshot Proof
 Link to Example
 
 YouTube Search Suggestions
-How to create an event in Google Calendar
+How to set birthday reminders in Google Calendar
 
-Setting up reminders in Google Calendar
+Sending personalized birthday messages using Google Calendar
 
-How to add location and description to events in Google Calendar
+Setting up all-day events in Google Calendar
 
-Professional calendar scheduling tips for VAs
+Managing recurring birthday events in Google Calendar
 
 Why This Matters
-Creating events properly is essential for keeping clients organized and informed. This skill helps ensure timely meetings, eliminates confusion, and shows professionalism in managing calendars for clients.
+Setting birthday reminders ensures that you don’t miss important client and team member celebrations. This shows attention to detail, thoughtfulness, and strong organizational skills, which builds rapport and professionalism.
+
